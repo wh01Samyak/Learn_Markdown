@@ -1,7 +1,9 @@
 # Learning_Markdown
 Learning the basics of Markdown
 
-It's very easy to make some words **bold** and other words *italic* with Markdown. You can even [link to Google!](http://google.com)
+It's very easy to make some words **bold**, __bold__ and other words *italic*, _italic_ with Markdown. You can even [link to Google!](http://google.com)
+-
+To ignore bold and add dunder we can use \ before the dunder, \_\_hi\_\_.
 
 Sometimes you want numbered lists:
 
